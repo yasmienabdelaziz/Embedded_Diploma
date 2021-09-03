@@ -1,0 +1,19 @@
+/*
+ * 6.c
+ *
+ *  Created on: Sep 1, 2021
+ *      Author: Yasmine Abdelaziz
+ */
+
+#include<stdio.h>
+#include <string.h>
+
+int main()
+{
+	int frequency[256] = {0};
+	char *str;
+	printf("Enter a string:");
+	fflush(stdout);
+	gets(str);
+
+}

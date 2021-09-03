@@ -1,0 +1,23 @@
+/*
+ * 3.c
+ *
+ *  Created on: Sep 1, 2021
+ *      Author: Yasmine Abdelaziz
+ */
+
+#include<stdio.h>
+#include <string.h>
+
+int main()
+{
+	int mat[100][100];
+	int rows;
+	int columns;
+	printf("enter number of rows:");
+	fflush(stdout);
+	scanf("%d", &rows);
+	printf("enter number of columns:");
+	fflush(stdout);
+	scanf("%d", &columns);
+
+}
