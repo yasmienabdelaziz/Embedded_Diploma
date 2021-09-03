@@ -1,0 +1,167 @@
+08:02:55 **** Rebuild of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+Info: Nothing to build for 1
+Info: Nothing to build for 1
+Info: Nothing to build for 1
+Info: Nothing to build for 1
+Info: Nothing to build for 1
+Info: Nothing to build for 1
+08:06:31 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:06:42 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:07:05 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:07:16 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:07:40 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:07:42 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:08:39 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -o 1.exe 1.o 
+Info: Nothing to build for 1
+08:09:16 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+Info: Nothing to build for 1
+08:10:52 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+08:11:32 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+Info: Nothing to build for 1
+08:12:55 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+Info: Nothing to build for 1
+08:13:27 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file 1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:14:03 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -o 1.exe 1.o 
+08:14:27 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+08:17:30 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+..\1.c: In function 'main':
+..\1.c:15:6: warning: unused variable 'flag' [-Wunused-variable]
+   15 |  int flag = 0;
+      |      ^~~~
+..\1.c: In function 'Primenum':
+..\1.c:31:6: error: 'flag' undeclared (first use in this function)
+   31 |      flag = 1;
+      |      ^~~~
+..\1.c:31:6: note: each undeclared identifier is reported only once for each function it appears in
+08:17:48 **** Incremental Build of configuration Debug for project 1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 1.o "..\\1.c" 
+gcc -o 1.exe 1.o 
+18:19:30 **** Rebuild of configuration Debug for project 2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 2.o "..\\2.c" 
+..\2.c: In function 'main':
+..\2.c:15:38: error: expected ';' before 'fflush'
+   15 |  printf("Enter a positive integer: ")
+      |                                      ^
+      |                                      ;
+   16 |  fflush(stdout);
+      |  ~~~~~~                               
+18:19:40 **** Incremental Build of configuration Debug for project 2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 2.o "..\\2.c" 
+gcc -o 2.exe 2.o 
+Info: Nothing to build for 2
+06:16:21 **** Rebuild of configuration Debug for project 3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 3.o "..\\3.c" 
+..\3.c: In function 'main':
+..\3.c:36:11: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+   36 |  length = strlen(x);
+      |           ^~~~~~
+..\3.c:36:11: warning: incompatible implicit declaration of built-in function 'strlen'
+..\3.c:10:1: note: include '<string.h>' or provide a declaration of 'strlen'
+    9 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   10 | 
+..\3.c: In function 'reverse':
+..\3.c:28:1: warning: control reaches end of non-void function [-Wreturn-type]
+   28 | }
+      | ^
+gcc -o 3.exe 3.o 
+06:16:59 **** Incremental Build of configuration Debug for project 3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 3.o "..\\3.c" 
+gcc -o 3.exe 3.o 
+Info: Nothing to build for 3
+06:17:25 **** Incremental Build of configuration Debug for project 3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 3.o "..\\3.c" 
+gcc -o 3.exe 3.o 
+06:24:46 **** Rebuild of configuration Debug for project 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 4.o "..\\4.c" 
+..\4.c: In function 'main':
+..\4.c:33:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   33 |  scanf("%d",base);
+      |         ~^  ~~~~
+      |          |  |
+      |          |  int
+      |          int *
+..\4.c:33:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+..\4.c:36:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   36 |  scanf("%d",n);
+      |         ~^  ~
+      |          |  |
+      |          |  int
+      |          int *
+..\4.c:36:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+..\4.c:36:2: warning: 'n' is used uninitialized in this function [-Wuninitialized]
+   36 |  scanf("%d",n);
+      |  ^~~~~~~~~~~~~
+gcc -o 4.exe 4.o 
+06:25:15 **** Incremental Build of configuration Debug for project 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 4.o "..\\4.c" 
+gcc -o 4.exe 4.o 
+Info: Nothing to build for 4
+Info: Nothing to build for 4
+06:26:55 **** Incremental Build of configuration Debug for project 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o 4.o "..\\4.c" 
+gcc -o 4.exe 4.o 

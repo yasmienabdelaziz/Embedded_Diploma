@@ -1,0 +1,27 @@
+/*
+ * 3.c
+ *
+ *  Created on: Sep 2, 2021
+ *      Author: Yasmine Abdelaziz
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+char x[100];
+char reversed[100];
+int length;
+
+int reverse(int n)
+{
+
+}
+
+int main(void)
+{
+	int n;
+	printf("Enter a sentence : ");
+	fflush(stdout);
+	gets(x);
+
+}
