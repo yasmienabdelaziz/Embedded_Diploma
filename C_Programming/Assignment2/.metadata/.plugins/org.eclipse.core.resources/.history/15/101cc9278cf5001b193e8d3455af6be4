@@ -1,0 +1,17 @@
+/*
+ * 3.c
+ *
+ *  Created on: Aug 5, 2021
+ *      Author: Yasmine Abdelaziz
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int a = 10, b = 20, c = 30;
+	if(c>b>a)
+	{
+		printf("True");
+	}
+}

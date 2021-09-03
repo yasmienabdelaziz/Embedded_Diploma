@@ -1,0 +1,15 @@
+/*
+ * 3.c
+ *
+ *  Created on: Aug 5, 2021
+ *      Author: Yasmine Abdelaziz
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int i=2 , j=5 , k=10 ;
+	int a = i >1 ? j<1 || k<1 ? 100:200:300;
+	printf ("%d",a);
+}

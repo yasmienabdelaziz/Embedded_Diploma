@@ -1,0 +1,15 @@
+/*
+ * 3.c
+ *
+ *  Created on: Aug 5, 2021
+ *      Author: Yasmine Abdelaziz
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	int x = 4+2%-8;
+	printf("%d",x);
+	printf("\n%u",-8%2);
+}
